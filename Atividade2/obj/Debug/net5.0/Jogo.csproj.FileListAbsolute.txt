@@ -1,0 +1,16 @@
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\bin\Debug\net5.0\Jogo.exe
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\bin\Debug\net5.0\Jogo.deps.json
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\bin\Debug\net5.0\Jogo.runtimeconfig.json
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\bin\Debug\net5.0\Jogo.runtimeconfig.dev.json
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\bin\Debug\net5.0\Jogo.dll
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\bin\Debug\net5.0\Jogo.pdb
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\Jogo.csproj.AssemblyReference.cache
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\Jogo.AssemblyInfoInputs.cache
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\Jogo.AssemblyInfo.cs
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\Jogo.dll
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\refint\Jogo.dll
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\Jogo.pdb
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\Jogo.genruntimeconfig.cache
+C:\Users\nanar\source\repos\Avaliacao\Atividade2\obj\Debug\net5.0\ref\Jogo.dll

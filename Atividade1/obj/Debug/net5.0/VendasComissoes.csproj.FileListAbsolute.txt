@@ -1,0 +1,16 @@
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\bin\Debug\net5.0\VendasComissoes.exe
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\bin\Debug\net5.0\VendasComissoes.deps.json
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\bin\Debug\net5.0\VendasComissoes.runtimeconfig.json
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\bin\Debug\net5.0\VendasComissoes.runtimeconfig.dev.json
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\bin\Debug\net5.0\VendasComissoes.dll
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\bin\Debug\net5.0\VendasComissoes.pdb
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\VendasComissoes.csproj.AssemblyReference.cache
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\VendasComissoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\VendasComissoes.AssemblyInfoInputs.cache
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\VendasComissoes.AssemblyInfo.cs
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\VendasComissoes.csproj.CoreCompileInputs.cache
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\VendasComissoes.dll
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\refint\VendasComissoes.dll
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\VendasComissoes.pdb
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\VendasComissoes.genruntimeconfig.cache
+C:\Users\nanar\source\repos\Avaliacao\Atividade1\obj\Debug\net5.0\ref\VendasComissoes.dll
